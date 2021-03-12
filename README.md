@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aissa    
+- 👀 I’m interested in web development    
+- 🌱 I’m currently learning php & javascript
